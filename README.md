@@ -12,12 +12,12 @@ I also created BG Clock, a responsive board game timer, and Wildtrace Farm, a Py
 
 ### Ongoing (Aug 15, 2025)
 
-- Currently learning: Svelte 5, Machine Learning, Kubernetes, PostgreSQL, Algorithms, Neovim
-- Currently working on: [Burrow](https://github.com/TypingHare/burrow) and [Neodocs](https://github.com/TypingHare/neodocs)
+- **Currently learning**: Svelte 5, Machine Learning, Kubernetes, PostgreSQL, Algorithms, Neovim
+- **Currently working on**: [Burrow](https://github.com/TypingHare/burrow) and [Neodocs](https://github.com/TypingHare/neodocs)
 
 ### 🔗 Find Me
 
-🌐 Website: [Hare Forms](https://forms.james-chan.me)
-📄 Resume: [Latest PDF](resume/20250815.pdf)
-💼 LinkedIn: [James Chen](https://www.linkedin.com/in/zhuojian-chen-8482a5243/)
-✉️ Email: [jameschan312.cn@gmail.com](mailto:jameschan312.cn@gmail.com)
+🌐 Website: [Hare Forms](https://forms.james-chan.me) <br>
+📄 Resume: [Latest PDF](resume/20250815.pdf) <br>
+💼 LinkedIn: [James Chen](https://www.linkedin.com/in/zhuojian-chen-8482a5243/) <br>
+✉️ Email: [jameschan312.cn@gmail.com](mailto:jameschan312.cn@gmail.com) <br>

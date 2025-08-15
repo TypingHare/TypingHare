@@ -2,7 +2,7 @@
 
 **I'm a computer science student and aspiring software engineer exploring core CS concepts through hands-on projects.**
 
-I’ve built modular CLI tools in Kotlin (e.g., burrow) and designed a secure credential encryption console app in TypeScript (trick)—publishing it as an npm package that helps developers safely manage secrets across environments.
+I’ve built modular CLI tools in Kotlin (e.g., Burrow) and designed a secure credential encryption console app in TypeScript (trick)—publishing it as an npm package that helps developers safely manage secrets across environments.
 
 I also created BG Clock, a responsive board game timer, and Wildtrace Farm, a Python/Pygame idle farming game, which helped me practice clean architecture, documentation, and design patterns.
 

@@ -8,11 +8,9 @@ I also created BG Clock, a responsive board game timer, and Wildtrace Farm, a Py
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TypingHare&layout=compact&theme=radical)
 
-**Outside of coding, I enjoy board games (Go - 3D), running (200m - 25.90s), and solving Rubik’s cubes (7x7 - 2:41.63 mo3).**
-
 ### ⏳Ongoing (Aug 15, 2025)
 
-- **Currently learning**: Svelte 5, Machine Learning, Kubernetes, PostgreSQL, Algorithms, Neovim
+- **Currently learning**: Svelte 5, Machine Learning models (Ridge Regression, SVR, ANN), PostgreSQL, Algorithms (on LeetCode), Neovim
 - **Currently working on**: [Burrow](https://github.com/TypingHare/burrow) and [Neodocs](https://github.com/TypingHare/neodocs)
 
 ### 🎯 Outside of Coding
@@ -20,7 +18,8 @@ I also created BG Clock, a responsive board game timer, and Wildtrace Farm, a Py
 When I’m not writing code, I’m usually chasing goals in strategy, speed, or endurance:
 
 - **Go (board game)** - 3 Dan rank
-- **Men's 200m sprint** - 25.90s
+- **Men's 200m Sprint** - 25.90s
+- **Men's 400m Sprint** - 1:02.30
 - **6x6 Rubik's Cube** - 2:04.57 mo3 (official)
 - **7x7 Rubik's Cube** - 2:41.63 mo3 (unofficial)
 

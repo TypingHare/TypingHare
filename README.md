@@ -26,6 +26,6 @@ When I’m not writing code, I’m usually chasing goals in strategy, speed, or 
 ### 🔗 Find Me
 
 🌐 Website: [Hare Forms](https://forms.james-chan.me) <br>
-📄 Resume: [Latest PDF](resume/20250815.pdf) <br>
+📄 Resume: [Latest PDF](resume/James_Chen_full_stack_developer.pdf) <br>
 💼 LinkedIn: [James Chen](https://www.linkedin.com/in/zhuojian-chen-8482a5243/) <br>
 ✉️ Email: [jameschan312.cn@gmail.com](mailto:jameschan312.cn@gmail.com) <br>

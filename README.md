@@ -17,11 +17,11 @@ I also created BG Clock, a responsive board game timer, and Wildtrace Farm, a Py
 
 When I’m not writing code, I’m usually chasing goals in strategy, speed, or endurance:
 
-- **Go (board game)** - 3 Dan rank
-- **Men's 200m Sprint** - 25.90s
-- **Men's 400m Sprint** - 1:02.30
+- **Men's 200m Sprint** - 25.17 (Oct 19, 2025)
+- **Men's 400m Sprint** - 1:00.24 (Oct 23, 2025)
 - **6x6 Rubik's Cube** - 2:04.57 mo3 (official)
 - **7x7 Rubik's Cube** - 2:41.63 mo3 (unofficial)
+- **Go (board game)** - 3 Dan rank (unofficial)
 
 ### 🔗 Find Me
 

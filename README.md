@@ -8,10 +8,17 @@ I also created BG Clock, a responsive board game timer, and Wildtrace Farm, a Py
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TypingHare&layout=compact&theme=radical)
 
-### ⏳Ongoing (Nov 7, 2025)
+### ⏳Ongoing (Nov 10, 2025)
 
-- **Currently learning**: Neovim, Machine Learning models (SVR, ANN, decision tree), LeetCode, PostgreSQL, Git
-- **Currently working on**: [Burrow](https://github.com/TypingHare/burrow)
+- **Currently learning**:
+  - Neovim
+  - Machine Learning models (SVR, decision tree, ANN)
+  - LeetCode
+  - PostgreSQL
+  - Git (advanced commands)
+- **Currently working on**
+  - [Burrow](https://github.com/TypingHare/burrow)
+  - [No Terminal No Life](https://github.com/TypingHare/no-terminal-no-life/tree/ntnl)
 
 ### 🎯 Outside of Coding
 

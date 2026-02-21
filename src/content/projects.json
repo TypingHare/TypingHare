@@ -1,0 +1,82 @@
+{
+  "description": "",
+  "entries": [
+    {
+      "name": "[JytSmart](https://github.com/TypingHare/jytsmart)",
+      "description": "My very first project in my coding career. It is the backend of an WeChat mini program from a startup project. It allows organizers to announce in-person events, and allows users to book them.",
+      "status": "archived",
+      "startDate": "201809",
+      "endDate": "202003"
+    },
+    {
+      "name": "[Wildtrace Farm](https://github.com/TypingHare/archives/tree/main/wildtrace-farm)",
+      "description": "My capstone project from the OOPL course, and the first game I ever created. It is a pixel-style game inspired by Stardew Valley.",
+      "status": "archived",
+      "startDate": "202311",
+      "endDate": "202312"
+    },
+    {
+      "name": "[Board Game Clock](https://github.com/TypingHare/TypingHare/tree/main)",
+      "description": "A responsive touchscreen clock application for board games like Chess and Go.",
+      "status": "maintaining",
+      "startDate": "202302",
+      "endDate": null
+    },
+    {
+      "name": "[Node Gallery](https://github.com/TypingHare/node-gallery)",
+      "description": "A gallery project for a friend's personal website. I refactored the codebase using TypeScript and Koa, and implemented a hash-based caching system along with automatic asset-scanning features.",
+      "status": "completed",
+      "startDate": "202406",
+      "endDate": "202406"
+    },
+    {
+      "name": "[stack-queue](https://github.com/TypingHare/stack-queue)",
+      "description": "A lightweight TypeScript library implements stack and queue data structures.",
+      "status": "maintaining",
+      "startDate": "202206",
+      "endDate": null
+    },
+    {
+      "name": "[Mazemouse](https://github.com/TypingHare/archives/tree/main/mazemouse)",
+      "description": "A C++ program for an MIT Micromouse competition. It implements maze-solving logic and simulator for navigating mazes. I was responsible for algorithms and the simulator.",
+      "status": "archived",
+      "startDate": "202410",
+      "endDate": "202411"
+    },
+    {
+      "name": "[Hare Forms](https://github.com/TypingHare/hare-forms)",
+      "description": "My personal website. Hares build forms instead of digging burrows like rabbits.",
+      "status": "developing",
+      "startDate": "202409",
+      "endDate": null
+    },
+    {
+      "name": "[Trick](https://github.com/TypingHare/trick)",
+      "description": "A CLI tool for encrypting and decrypting credential files so you can safely store them in remote repositories.",
+      "status": "maintaining",
+      "startDate": "202410",
+      "endDate": null
+    },
+    {
+      "name": "[Burrow](https://github.com/TypingHare/burrow)",
+      "description": "A Kotlin-based CLI tool that provides customizable, modular environment aimed at streamlining command-line workflows. I am now refactoring it using Go.",
+      "status": "developing",
+      "startDate": "202405",
+      "endDate": null
+    },
+    {
+      "name": "[hare-conf.nvim](https://github.com/TypingHare/hare-conf.nvim)",
+      "description": "A Neovim plugin for managing configuration centrally.",
+      "status": "developing",
+      "startDate": "202601",
+      "endDate": null
+    },
+    {
+      "name": "[Course Sync](https://github.com/TypingHare/course-sync)",
+      "description": "A CLI tool that helps students and teachers synchronize course materials using Git, without requiring a central server.",
+      "status": "developing",
+      "startDate": "202512",
+      "endDate": null
+    }
+  ]
+}

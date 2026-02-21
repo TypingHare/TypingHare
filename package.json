@@ -1,0 +1,21 @@
+{
+  "name": "@typinghare/TypingHare",
+  "version": "2026.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd src && bun build-readme.ts && cp -f ../build/README.md .."
+  },
+  "keywords": [],
+  "author": "",
+  "packageManager": "pnpm@10.30.1",
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  },
+  "dependencies": {
+    "@types/bun": "^1.3.9",
+    "eslint": "^10.0.1",
+    "eslint-plugin-jsonc": "^3.0.0",
+    "jsonc-eslint-parser": "^3.1.0"
+  }
+}

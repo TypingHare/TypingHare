@@ -1,0 +1,35 @@
+{
+  "description": "When I’m not writing code, I often chase goals in strategy, speed, and endurance.",
+  "entries": [
+    {
+      "event": "200m Sprint",
+      "achievement": "25.17 (seconds)",
+      "date": "Oct 19, 2025",
+      "comment": "Unofficial; HT"
+    },
+    {
+      "event": "400m Sprint",
+      "achievement": "59.74 (seconds)",
+      "date": "Oct 23, 2025",
+      "comment": "Unofficial; HT"
+    },
+    {
+      "event": "6x6 Rubik's Cube",
+      "achievement": "2:04.57 mean of 3 (Oct 27, 2024)",
+      "date": "Oct 27, 2024",
+      "comment": "Official; WCA"
+    },
+    {
+      "event": "7x7 Rubik's Cube",
+      "achievement": "2:41.63 mean of 3 (August 28, 2021)",
+      "date": "Aug 28, 2021",
+      "comment": "Unofficial; [Video](https://www.bilibili.com/video/BV1J44y187XP)"
+    },
+    {
+      "event": "Go (Weiqi)",
+      "achievement": "3-dan amateur",
+      "date": "-",
+      "comment": "Unofficial"
+    }
+  ]
+}

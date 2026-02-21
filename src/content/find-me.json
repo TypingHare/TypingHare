@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "entries": [
+    {
+      "name": "Website",
+      "urlTitle": "Hare Forms",
+      "url": "https://forms.james-chan.me"
+    },
+    {
+      "name": "LinkedIn",
+      "urlTitle": "James Chen's Profile",
+      "url": "https://www.linkedin.com/in/zhuojian-chen-8482a5243/"
+    },
+    {
+      "name": "Email",
+      "urlTitle": "jameschan312.cn@gmail.com",
+      "url": "mailto:jameschan312.cn@gmail.com"
+    },
+    {
+      "name": "Resume",
+      "urlTitle": "Latest PDF",
+      "url": "./resume/james_chen_full_stack_engineer.pdf"
+    }
+  ]
+}

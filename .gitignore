@@ -1,2 +1,11 @@
 # macOS system files
 .DS_Store
+
+# Node.js (npm) dependencies 
+/node_modules/
+
+# TypeScript compiled files
+/dist/
+
+# Build artifacts
+/build/

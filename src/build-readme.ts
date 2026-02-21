@@ -301,7 +301,7 @@ async function appendFindMeSection(lines: string[]) {
 
   for (const entry of entries) {
     const { name, urlTitle, url } = entry
-    lines.push(`${name}: [${urlTitle}](${url})`)
+    lines.push(`${name}: [${urlTitle}](${url})<br>`)
   }
 }
 

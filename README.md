@@ -45,7 +45,7 @@ When I’m not writing code, I often chase goals in strategy, speed, and enduran
 | Go (Weiqi) | 3-dan amateur | - | Unofficial |
 ## Find Me
 
-Website: [Hare Forms](https://forms.james-chan.me)
-LinkedIn: [James Chen's Profile](https://www.linkedin.com/in/zhuojian-chen-8482a5243/)
-Email: [jameschan312.cn@gmail.com](mailto:jameschan312.cn@gmail.com)
-Resume: [Latest PDF](./resume/james_chen_full_stack_engineer.pdf)
+Website: [Hare Forms](https://forms.james-chan.me)<br>
+LinkedIn: [James Chen's Profile](https://www.linkedin.com/in/zhuojian-chen-8482a5243/)<br>
+Email: [jameschan312.cn@gmail.com](mailto:jameschan312.cn@gmail.com)<br>
+Resume: [Latest PDF](./resume/james_chen_full_stack_engineer.pdf)<br>

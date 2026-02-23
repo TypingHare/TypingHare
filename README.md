@@ -22,7 +22,7 @@ These projects gave me a lot of solid, hands-on development experience, and they
 | [Trick](https://github.com/TypingHare/trick) | A CLI tool for encrypting and decrypting credential files so you can safely store them in remote repositories. | **MAINTAINING** | Oct 2024 - _Present_ |
 | [Course Sync](https://github.com/TypingHare/course-sync) | A CLI tool that helps students and teachers synchronize course materials using Git, without requiring a central server. | **DEVELOPING** | Dec 2025 - _Present_ |
 | [hare-conf.nvim](https://github.com/TypingHare/hare-conf.nvim) | A Neovim plugin for managing configuration centrally. | **DEVELOPING** | Jan 2026 - _Present_ |
-## Ongoing (Feb 2026)
+## Ongoing (Feb 20, 2026)
 
 - **Recently Completed**
   - [HareConf](https://github.com/TypingHare/hare-conf.nvim)
@@ -34,7 +34,7 @@ These projects gave me a lot of solid, hands-on development experience, and they
 - **Currently Working On**
   - [Course Sync](https://github.com/TypingHare/course-sync)
   - bloxhaven (private startup project)
-## Outside of Coding (Feb 2026)
+## Outside of Coding (Feb 20, 2026)
 
 When I’m not writing code, I often chase goals in strategy, speed, and endurance.
 

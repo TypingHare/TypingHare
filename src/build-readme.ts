@@ -160,6 +160,7 @@ function formatMonthDayYear(input: string): string {
   return date.toLocaleString('en-US', {
     month: 'short',
     year: 'numeric',
+    day: '2-digit',
   })
 }
 

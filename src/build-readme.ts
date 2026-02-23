@@ -198,7 +198,13 @@ async function appendProjectsSection(lines: string[]) {
   const dateTitleCell = '&nbsp;'.repeat(8) + 'Date' + '&nbsp;'.repeat(8)
   lines.push(`| Name | Description | Status | ${dateTitleCell} |`)
   lines.push('| --- | --- | --- | --- |')
-  for (const entry of entries) {
+
+  // Sort the entries ascendingly by start dates.
+  const sortedEntries: ProjectsSection['entries'] = entries.sort(
+    (a, b) => Number(a.startDate) - Number(b.startDate)
+  )
+
+  for (const entry of sortedEntries) {
     const { name, description, status, startDate, endDate } = entry
     const startDateString = formatMonthYear(startDate)
     const endDateString = endDate ? formatMonthYear(endDate) : '_Present_'

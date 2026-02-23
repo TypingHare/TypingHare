@@ -1,5 +1,5 @@
 {
-  "description": "",
+  "description": "These projects gave me a lot of solid, hands-on development experience, and they’re some of the most polished and complete ones I’ve worked on. I’ve put my other half-finished or outdated little side projects over [here](https://github.com/TypingHare/archives).",
   "entries": [
     {
       "name": "[JytSmart](https://github.com/TypingHare/jytsmart)",
@@ -59,7 +59,7 @@
     },
     {
       "name": "[Burrow](https://github.com/TypingHare/burrow)",
-      "description": "A Kotlin-based CLI tool that provides customizable, modular environment aimed at streamlining command-line workflows. I am now refactoring it using Go.",
+      "description": "A Kotlin-based CLI tool that provides customizable, modular environment aimed at streamlining command-line workflows. **I am now refactoring it using Go**.",
       "status": "developing",
       "startDate": "202405",
       "endDate": null

@@ -170,7 +170,7 @@ function formatMonthDayYear(input: string): string {
 async function appendIntroduction(lines: string[]) {
   const items = await importJsonFile<string[]>(INTRODUCTION_FILE_PATH)
 
-  lines.push('# 👋 Hi, I am James Chen\n')
+  lines.push("# 👋 Hi, I'm James Chen\n")
 
   for (const item of items) {
     lines.push(item)

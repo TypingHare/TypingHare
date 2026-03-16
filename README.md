@@ -1,8 +1,8 @@
-# 👋 Hi, I am James Chen
+# 👋 Hi, I'm James Chen
 
-I am a computer science graduate student and aspiring software engineer who explores core CS concepts through hands-on projects.
+I'm a computer science graduate student and aspiring software engineer who explores core CS concepts through hands-on projects.
 
-I have been writing code since 2018 and have embraced vibe coding since 2024. I not only have **strong coding fundamentals** but am also skilled at **guiding AI agents** with precise prompts to improve efficiency.
+I've been writing code since 2018 and have embraced vibe coding since 2024. I not only have **strong coding fundamentals** but am also skilled at **guiding AI agents** with precise prompts to improve efficiency.
 
 ![Top Programming Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TypingHare&layout=compact)
 ## Projects
@@ -47,7 +47,7 @@ When I’m not writing code, I often chase goals in strategy, speed, and enduran
 | Go (Weiqi) | 3-dan amateur | - | Unofficial |
 ## Find Me
 
-Website: [Hare Forms](https://forms.james-chan.me)<br>
+Website: [Hare Forms](https://jameschen.life)<br>
 LinkedIn: [James Chen's Profile](https://www.linkedin.com/in/zhuojian-chen-8482a5243/)<br>
 Email: [jameschan312.cn@gmail.com](mailto:jameschan312.cn@gmail.com)<br>
 Resume: [Latest PDF](./resume/james_chen_full_stack_engineer.pdf)<br>
